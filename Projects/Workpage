@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erica Resendez | Projects</title>
+</head>
+<body>
+
+    <header>
+        <h1>My Projects and Work</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="projects.html">Projects/Work</a>
+            <a href="about.html">About/Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>My Experience</h2>
+            <p>My professional background includes IT and county work.
+            These experiences have helped me develop useful
+            professional and technical skills.</p>
+        </section>
+
+        <section>
+            <h2>My Projects</h2>
+
+            <article>
+                <h3>Personal Portfolio Website</h3>
+                <p>A website created to introduce myself and
+                showcase my skills and experience.</p>
+            </article>
+
+            <article>
+                <h3>Technology and Professional Skills</h3>
+                <p>A collection of skills and knowledge developed
+                through work and learning experiences.</p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>Copyright 2026 Erica Resendez</p>
+    </footer>
+
+</body>
+</html>
